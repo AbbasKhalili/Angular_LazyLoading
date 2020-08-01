@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eBExoxsIn3BCJVgK31tw+gTCnJjXiUungV4CgDwHnNI7+an09SWhLD4JLdq92hQ0iv6nc7NnQlHQJPY3ZFtfvg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\ngLazyLoading\\Server\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\faker.net\\1.3.82\\faker.net.1.3.82.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
