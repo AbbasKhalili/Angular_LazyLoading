@@ -11,7 +11,7 @@ namespace Server.Controllers
         [HttpGet("page/{pageNumber}/amount/{count}")]
         public IEnumerable<Item> Get(int pageNumber,int count)
         {
-            var list = Faker.Extensions.EnumerableExtensions.Times(1000, a => new Item()
+            var list = Faker.Extensions.EnumerableExtensions.Times(2000, a => new Item()
             {
                 Title = Faker.Name.First(),
                 Type = Faker.Name.Last(),
